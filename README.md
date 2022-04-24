@@ -3,6 +3,10 @@
 ## Introduction
 A bot added to a Discord server to watch for the market cap of the configured coin.
 
+![](assets/bot-sidebar.png)
+
+![](assets/bot-info.png)
+
 ## Usage
 Copy the `.env.example` file to `.env`. Following is an example of how the `.env` file should look like
 
