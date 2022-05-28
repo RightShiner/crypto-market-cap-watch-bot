@@ -23,7 +23,7 @@ DISCORD_BOT_API_TOKEN=<DISCORD BOT TOKEN>
 ## Adding the bot
 The bot is available to add via the following:
 
-[Add bot to Discord server](https://discord.com/api/oauth2/authorize?client_id=967704563882807297&permissions=0&scope=bot)
+[Add bot to Discord server](https://discord.com/api/oauth2/authorize?client_id=980054028807438377&permissions=0&scope=bot)
 
 As usual, you are recommended to verify the link before proceeding.
 
